@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.trybe.acc.java.estadosbrasileiros.EstadosBrasileirosTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.03 s <<< FAILURE! - in null
+com.trybe.acc.java.estadosbrasileiros.EstadosBrasileirosTest.mainTest  Time elapsed: 0.018 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <CEARA
+> but was: <>
+	at com.trybe.acc.java.estadosbrasileiros.EstadosBrasileirosTest.mainTest(EstadosBrasileirosTest.java:20)
+
